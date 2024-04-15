@@ -5,7 +5,7 @@
 .vscode/
 
 # Cache folder
-.alcache/       # This line excludes .alcache folder
+.alcache/       # This line excludes .alcache/ folder
 
 # Symbols folder
 .alpackages/
